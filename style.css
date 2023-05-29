@@ -1,0 +1,18 @@
+body{
+    background-color: limegreen;
+}
+
+#score{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#holding_time{
+    font-size: 20px;
+    float: right;
+    margin-right: 20px;
+}
+
+#sketch_name{
+    color: white;
+}
